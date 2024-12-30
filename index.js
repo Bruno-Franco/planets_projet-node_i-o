@@ -14,7 +14,7 @@ function isHabitable() {
 					...planets,
 					{
 						candidate: planet.koi_disposition,
-						name: planet.kepoi_name,
+						name: planet.kepler_name,
 						insulation_flux: planet.koi_insol,
 						planetary_radius: planet.koi_prad,
 						period: planet.koi_period,
