@@ -1,0 +1,15 @@
+{
+	"name": "planets_project",
+	"version": "1.0.0",
+	"type": "module",
+	"description": "# lets explore planets that we might live using node.js and csv-parse",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"csv-parse": "^5.6.0"
+	}
+}
